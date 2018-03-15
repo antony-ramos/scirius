@@ -158,7 +158,7 @@ REST_FRAMEWORK = {
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '/var/www/example.com/static/'
+STATIC_ROOT = '/static/'
 
 # Suricata binary
 SURICATA_BINARY = "suricata"
